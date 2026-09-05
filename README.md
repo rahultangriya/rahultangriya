@@ -41,7 +41,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/rahul-tangriya-861707259"><img src="https://img.shields.io/badge/-Rahul%20Tangriya-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-rahultangriya01@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:rahultangriya01@gmail.com"><img src="https://img.shields.io/badge/-rahultangriya01@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 -----
