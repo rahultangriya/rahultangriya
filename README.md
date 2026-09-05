@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahultangriya/rahultangriya/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahultangriya/rahultangriya/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="![Snake animation](https://raw.githubusercontent.com/rahultangriya/rahultangriya/output/github-contribution-grid-snake.svg)">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahultangriya/rahultangriya/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahultangriya/rahultangriya/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rahultangriya/rahultangriya/output/github-contribution-grid-snake.svg">
 </picture>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Rahul</h2>
